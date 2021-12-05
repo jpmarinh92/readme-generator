@@ -20,6 +20,8 @@
   ## Usage
 
   When you run `node index.js`, the application uses the `inquirer` package to prompt you in the command line with a series of questions about your GitHub and about your project.<br/><br/> The application will generate markdown and a table of contents for the README conditionally based on your responses to the Inquirer prompts. The README will also include badges for your GitHub repo.<br/><br/> Finally, `fs.writeFile` is used to generate your project's README.md file.
+  
+https://drive.google.com/file/d/1OUhCWkwSbHVAnqCctDkckPWIMxva3TuJ/view
 
   ## Contributing
 
@@ -34,6 +36,4 @@
   https://github.com/jpmarinh92
   jpmarin92@hotmail.com
   If you have any questions, concerns or suggestions please contact me through the email provided above and please include the name of the repository in the email subject.
-  
-  https://drive.google.com/file/d/1OUhCWkwSbHVAnqCctDkckPWIMxva3TuJ/view
   
