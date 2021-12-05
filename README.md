@@ -15,7 +15,7 @@
 
   ## Installation
 
-  To generate your own README, `git clone` the repo down to your local so you have the Node project on your local.<br/><br/>  Run `npm install` in order to install the following npm package dependencies as specified in the `package.json`:<br/><br/>  * [`inquirer`](https://www.npmjs.com/package/inquirer) will prompt you for your inputs from the command line.<br/><br/> The application will start by running `node index.js` in the command line.<br/><br/> Answer the prompts in your command line to generate the README.<br/><br/> After answering all the prompts, your README file will be named 'README.md' and will be ready for you at the root of the repo.
+  To generate your own README, `git clone` the repo down to your local so you have the Node project on your local.<br/><br/>  Run `npm install` in order to install the following npm package dependencies as specified in the `package.json`:<br/><br/>  * [inquirer](https://www.npmjs.com/package/inquirer) will prompt you for your inputs from the command line.<br/><br/> The application will start by running `node index.js` in the command line.<br/><br/> Answer the prompts in your command line to generate the README.<br/><br/> After answering all the prompts, your README file will be named 'README.md' and will be ready for you at the root of the repo.
 
   ## Usage
 
